@@ -3,7 +3,7 @@
 #!author=
 #!homepage=
 #!icon=
-#!raw-url=https://raw.githubusercontent.com/humsg/QuantumultX/main/rewrite
+#!raw-url=https://raw.githubusercontent.com/humsg/QuantumultX/main/rewrite.txt
 #!date=
 #############################################
 # "reject"        策略返回 HTTP 状态码 404,不附带任何额外内容
