@@ -4,10 +4,6 @@
 # 由于广告屏蔽无法做到100%完美，故由墨鱼维护本分流，用以修正误屏蔽的域名
 # logtime: 2024-10-22
 
-# > general
-DOMAIN,app.adjust.com
-DOMAIN,app.appsflyer.com
-DOMAIN,bdtj.tagtic.cn
 # > alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
